@@ -1,0 +1,15 @@
+title Establishing a Session
+
+participant "RoboRio" as robot
+participant "MDConsole" as cons
+
+==Preconditions: \n  * RoboRio has started\n  * Robot has the WebSocket subsystem started \n     and is accepting connections==
+
+
+autonumber
+note over robot: Waiting for \nconnections
+cons->>robot: connect
+note over robot: Create session \n \n                 ...
+robot->>cons: stream data
+note over cons: Process messages\n and update display
+autonumber off
