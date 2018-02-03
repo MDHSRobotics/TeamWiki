@@ -5,5 +5,6 @@ See [Wiki](https://github.com/MDHSRobotics/TeamWiki/wiki)
 
 ## Documented Seasons:
 
+* [2018 GladosBot](https://github.com/MDHSRobotics/GladosBot)
 * [2017 SteamWorks](https://github.com/MDHSRobotics/SteamWorks2017)
 * [2016 ToteBot](https://github.com/MDHSRobotics/ToteBot2016)
