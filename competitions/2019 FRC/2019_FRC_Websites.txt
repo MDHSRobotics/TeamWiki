@@ -1,0 +1,19 @@
+
+2019 FRC Home:
+https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system
+
+
+2019 FRC Control System Home:
+http://wpilib.screenstepslive.com/s/currentCS
+
+
+2019 FRC Java Programming:
+http://wpilib.screenstepslive.com/s/currentCS/m/java
+
+
+2019 FRC Java Visual Studio Code Basics and the WPILib Extension:
+http://wpilib.screenstepslive.com/s/currentCS/m/java/l/1027060-visual-studio-code-basics-and-the-wpilib-extension
+
+
+2019 FRC Vision Processing:
+http://wpilib.screenstepslive.com/s/currentCS/m/vision
